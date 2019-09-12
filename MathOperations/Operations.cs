@@ -11,7 +11,7 @@ namespace MathOperations
         static  double num1 = 0;
         static  double num2 = 0;
         static  double Result = 0;
-   
+      // Enter
         public static double ADD(double num1, double num2)
         {
             return (num1 + num2);
