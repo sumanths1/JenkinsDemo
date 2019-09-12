@@ -1,0 +1,16 @@
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.abstractions.dll
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.assert.dll
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.core.dll
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.execution.desktop.dll
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.abstractions.xml
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.assert.xml
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.core.xml
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\bin\Debug\xunit.execution.desktop.xml
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\obj\Debug\MathOperations.csprojAssemblyReference.cache
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\obj\Debug\MathOperations.csproj.CopyComplete
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\sumanth.satheesh\source\repos\JenkinsDemo\MathOperations\obj\Debug\MathOperations.pdb
