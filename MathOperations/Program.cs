@@ -36,7 +36,7 @@ namespace MathOperations
                 case 2:
                     double RSUB = 0;
                     RSUB = Operations.SUB(10, 5);
-                    Console.WriteLine($"Äddition of two number{RSUB}");
+                    Console.WriteLine($"Äddition of 2 number{RSUB}");
                   break;
                 case 3:
                     double RMUL = 0;
